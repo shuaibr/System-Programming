@@ -1,2 +1,2 @@
 # System-Programming
-Linux, C and Bash Scripts
+C and Bash Scripts for the Linux environment
